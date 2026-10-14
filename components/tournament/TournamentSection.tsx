@@ -6,7 +6,7 @@ const tournaments = [
   {
     game: "BGMI",
     title: "Jaipur Championship S1",
-    prize: "₹10,000",
+    prize: "₹5,00,000",
     date: "Coming Soon",
     icon: "🎯",
     gradient: "from-purple-500 to-fuchsia-500",
@@ -14,7 +14,7 @@ const tournaments = [
   {
     game: "FREE FIRE",
     title: "JEC Clash Cup",
-    prize: "₹5,000",
+    prize: "₹1,00,000",
     date: "Coming Soon",
     icon: "🔥",
     gradient: "from-fuchsia-500 to-purple-500",
@@ -22,7 +22,7 @@ const tournaments = [
   {
     game: "VALORANT",
     title: "Rajasthan Masters",
-    prize: "₹15,000",
+    prize: "₹1,00,000",
     date: "Coming Soon",
     icon: "⚔️",
     gradient: "from-indigo-500 to-purple-500",

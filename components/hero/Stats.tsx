@@ -12,7 +12,7 @@ export default function Stats() {
     },
     {
       title: "PRIZE POOL",
-      value: "₹10,000",
+      value: "₹5,00,000",
       icon: "💰",
       accent: "from-fuchsia-500 to-purple-500",
     },
